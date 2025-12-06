@@ -1,0 +1,6 @@
+--- QUANTUM MATERIAL THERMAL ANALYSIS ---
+Total Power: 70.2805 W
+
+1. Glue (Baseline): 1405.61 C
+2. MoS2 (Quantum):  4.13415 C
+3. Copper (Metal):  0.878506 C
