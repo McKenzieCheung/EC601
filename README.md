@@ -22,4 +22,5 @@ For issues caused by thermal limitations of ICs, I was particularly curious at h
 This project references the PAT-Noxim Simulator: https://github.com/amin-norollah/PAT-Noxim/blob/master/README.md#description
 
 → PAT = “Power, Area, Thermal”
+
 → Chiplet simulator that uses a power and thermal model to simulate a Network-on-Chip (NoC) 
