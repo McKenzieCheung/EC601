@@ -26,3 +26,4 @@ This project references the PAT-Noxim Simulator: https://github.com/amin-norolla
 → Chiplet simulator that uses a power and thermal model to simulate a Network-on-Chip (NoC) 
 _ _ _
 
+There are different test cases to show the thermal data as a result of various TIMs being tested. The baseline is Glue, with an example case of Liquid Metal, and an ideal case of Copper.
