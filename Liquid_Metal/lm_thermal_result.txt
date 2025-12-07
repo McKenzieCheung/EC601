@@ -1,0 +1,8 @@
+--- PAT-NOXIM THERMAL ANALYSIS: EXPERIMENTAL SCENARIO ---
+Material:       Liquid Metal / Galinstan Alloy
+Conductivity:   40 W/mK
+Input Power:    70.2805 W
+-----------------------------------------------------
+Calculated Temperature Rise: 8.78506 C
+Status:         SAFE OPERATION
+-----------------------------------------------------
