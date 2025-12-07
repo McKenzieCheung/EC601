@@ -1,0 +1,8 @@
+--- PAT-NOXIM THERMAL ANALYSIS: BASELINE SCENARIO ---
+Material:       Standard Polymer TIM (Glue)
+Conductivity:   0.25 W/mK
+Input Power:    70.2805 W
+-----------------------------------------------------
+Calculated Temperature Rise: 1405.61 C
+Status:         THERMAL FAILURE (Exceeds Silicon Limits)
+-----------------------------------------------------
