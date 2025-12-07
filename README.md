@@ -24,3 +24,5 @@ This project references the PAT-Noxim Simulator: https://github.com/amin-norolla
 → PAT = “Power, Area, Thermal”
 
 → Chiplet simulator that uses a power and thermal model to simulate a Network-on-Chip (NoC) 
+_ _ _
+
