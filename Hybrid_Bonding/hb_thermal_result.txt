@@ -1,0 +1,8 @@
+--- PAT-NOXIM THERMAL ANALYSIS: HYBRID BONDING (Si-Si) ---
+Material:       Direct Silicon Contact (No Interface Material)
+Conductivity:   149 W/mK (Industry Standard High-End)
+Input Power:    70.2805 W
+-----------------------------------------------------
+Calculated Temperature Rise: 2.35841 C
+Status:         HIGH PERFORMANCE (TSMC/Intel Standard)
+-----------------------------------------------------
