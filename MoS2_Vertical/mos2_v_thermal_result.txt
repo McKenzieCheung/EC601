@@ -1,0 +1,8 @@
+--- PAT-NOXIM THERMAL ANALYSIS: MoS2 CROSS-PLANE (VERTICAL) ---
+Material:       MoS2 (Vertical Orientation)
+Conductivity:   5 W/mK (Much lower than In-Plane)
+Input Power:    70.2805 W
+-----------------------------------------------------
+Calculated Temperature Rise: 70.2805 C
+Status:         SURVIVABLE (Hot, but functional)
+-----------------------------------------------------
