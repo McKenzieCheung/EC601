@@ -1,0 +1,8 @@
+--- PAT-NOXIM THERMAL ANALYSIS: IDEAL BENCHMARK ---
+Material:       Pure Copper (Transition Metal)
+Conductivity:   400 W/mK
+Input Power:    70.2805 W
+-----------------------------------------------------
+Calculated Temperature Rise: 0.878506 C
+Status:         OPTIMAL COOLING
+-----------------------------------------------------
