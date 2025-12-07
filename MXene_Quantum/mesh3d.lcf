@@ -1,0 +1,32 @@
+# Layer 0: Silicon
+0
+Y
+Y
+1.75e+06
+0.01
+0.00015
+mesh3d_0.flp
+# Layer 1: MXene - k=55.0
+1
+Y
+N
+4e+06
+55.0
+2e-05
+mesh3d_0.flp
+# Layer 2: Silicon
+2
+Y
+Y
+1.75e+06
+0.01
+0.00015
+mesh3d_1.flp
+# Layer 3: MXene - k=55.0
+3
+Y
+N
+4e+06
+55.0
+2e-05
+mesh3d_1.flp

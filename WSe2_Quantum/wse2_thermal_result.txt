@@ -1,0 +1,5 @@
+--- THERMAL ANALYSIS: WSe2 (Tungsten Diselenide) ---
+Material:       WSe2 (Selenium-based TMD)
+Conductivity:   35 W/mK
+Note:           Lower performance due to high atomic mass.
+Temperature Rise: 10.0401 C

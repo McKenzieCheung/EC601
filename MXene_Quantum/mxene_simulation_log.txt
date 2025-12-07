@@ -1,0 +1,66 @@
+	//////////////////////////////////////////// 
+	////	Noxim - the NoC Simulator	//// 
+	////	(C) University of Catania	//// 
+	//////////////////////////////////////////// 
+	//////////////////////////////////////////// 
+	////		version IUST		//// 
+	//////////////////////////////////////////// 
+
+
+Start buildMesh...
+Reset...done!
+Now running for 10000 cycles...
+|----------------------- ProgressBar ----------------------|
+############################################################
+Calculate SteadyTemp at 10000
+Noxim simulation completed.
+ ( 10002 cycles executed)
+
+///////////////////////////////////////////////////////////// 
++ Packets and Flits
+  Total received packets	: 9331
+  Total received Header flits	: 9340
+  Total received flits		: 74682
+
++ Delay
+  Global average delay 		: 28.1302 (cycles)
+  Max delay 			: 119 (cycles)
+  Avg waiting time in each buffer: 43.9537 (cycles)
+
++ Throughput
+  Global average throughput	: 0.262279 (flits/cycle)
+  Throughput 			: 0.233615 (flits/cycle/IP)
+
++ Power and Energy
+  + Total energy 		: 0.000702378 (J)
+    Cores energy 		: 0.000555196 (J)	Percent : %79.0452
+    Routers energy 		: 0.000147182 (J)	Percent : %20.9548
+  + Avg power 			: 7.02378e-08 (J/cycle)
+    Avg cores power		: 5.55196e-08 (J/cycle)
+    Avg routers power 		: 1.47182e-08 (J/cycle)
+  + Avg power per router	: 4.59943e-10 (J/cycle)
+    Static power 		: 1.4975e-10 (J/cycle)	Percent : %32.5583
+    Avg dynamic power		: 3.10194e-10 (J/cycle)	Percent : %67.4417
+
++ Area
+  Total area 			: 7.60175e+07 (um^2)
+  Layer area			: 3.80088e+07 (um^2)
+  Area per core 		: 4.69523e+06 (um^2)	Percent (per tile)   : %93.6323
+  + Area per router 		: 319310 (um^2) 	Percent (per tile)   : %6.36769
+    Crossbar 			: 289609 (um^2) 	Percent (per router) : %90.6983
+    VCAllocator 		: 0 (um^2) 	Percent (per router) : %0
+    SWAllocator 		: 701.119 (um^2) 	Percent (per router) : %0.219573
+    Buffers 			: 29000.3 (um^2) 	Percent (per router) : %9.08217
+
++ Layer Analysis
+  Layer average delay (cycles) 	: 27.8407	  28.4213	  
+  Layer energy (J)		: 7.12342e-05	7.59477e-05	
+  Layer Routed flits		:144726		159262		
+  Layer Routed flits[0]		: 21867		 25919		
+  Layer Routed flits[1]		: 24424		 23364		
+  Layer Routed flits[2]		: 22266		 25648		
+  Layer Routed flits[3]		: 19445		 28002		
+  Layer Routed flits[4]		:     0		 19146		
+  Layer Routed flits[5]		: 18988		     0		
+  Layer Routed flits[6]		: 37736		 37183		
+/////////////////////////////////////////////////////////////

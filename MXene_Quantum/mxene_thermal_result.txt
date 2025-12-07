@@ -1,0 +1,4 @@
+--- THERMAL ANALYSIS: MXene (Ti3C2) ---
+Material:       Titanium Carbide (Transition Metal Carbide)
+Conductivity:   55 W/mK
+Temperature Rise: 6.38914 C
