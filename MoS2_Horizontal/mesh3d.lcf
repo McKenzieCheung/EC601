@@ -1,0 +1,35 @@
+# Layer 0: Silicon
+0
+Y
+Y
+1.75e+06
+0.01
+0.00015
+mesh3d_0.flp
+
+# Layer 1: MoS2 (Horizontal) - k=85.0
+1
+Y
+N
+4e+06
+85.0
+2e-05
+mesh3d_0.flp
+
+# Layer 2: Silicon
+2
+Y
+Y
+1.75e+06
+0.01
+0.00015
+mesh3d_1.flp
+
+# Layer 3: MoS2 (Horizontal) - k=85.0
+3
+Y
+N
+4e+06
+85.0
+2e-05
+mesh3d_1.flp

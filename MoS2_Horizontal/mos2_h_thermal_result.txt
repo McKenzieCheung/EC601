@@ -1,0 +1,8 @@
+--- PAT-NOXIM THERMAL ANALYSIS: MoS2 IN-PLANE (HORIZONTAL) ---
+Material:       MoS2 (Horizontal Orientation)
+Conductivity:   85 W/mK (Quantum Advantage)
+Input Power:    70.2805 W
+-----------------------------------------------------
+Calculated Temperature Rise: 4.13415 C
+Status:         EXCELLENT (Comparable to Liquid Metal)
+-----------------------------------------------------
