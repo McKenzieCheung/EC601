@@ -1,0 +1,9 @@
+--- PAT-NOXIM THERMAL ANALYSIS: WS2 QUANTUM MATERIAL ---
+Material:       Tungsten Disulfide (WS2)
+Conductivity:   45 W/mK
+Physics Note:   Lower conductivity than MoS2 due to heavier Tungsten atoms.
+Input Power:    70.2805 W
+-----------------------------------------------------
+Calculated Temperature Rise: 7.80894 C
+Status:         SAFE (But less efficient than MoS2)
+-----------------------------------------------------
